@@ -3,7 +3,7 @@ import { List } from "@chakra-ui/react";
 import { TodoItem } from "./TodoItem";
 import { TodoTitle } from "./TodoTitle";
 
-import { Todolist } from "../types/index.t";
+import { Todolist } from "types/index.t";
 
 type Props = {
   title: string;
